@@ -1,0 +1,38 @@
+.chapter {
+    text-align: center;
+
+    font-family: sans-serif;
+}
+
+.chapter h1 {
+    font-variant: small-caps;
+    text-decoration: underline;
+    border-bottom:12px double #000;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.para {
+    font-size: 14px;
+    font-family: sans-serif;
+    width: 50%;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.para p {
+    text-indent: 3em;
+}
+pre{
+
+    font-family: sans-serif;
+}
+p:hover {
+    color: #999;
+    margin-left: -1.5em;
+    margin-right: -1.5em;
+}
+
