@@ -50,7 +50,7 @@
 #bubble2 {
  	top: 13px;
  	left: 158px;
- 	width: 310px;
+ 	width: 290px;
  	font-size: 14px;
 }
 
@@ -61,10 +61,27 @@
  	width: 221px;
  	line-height: 1;
 }
-
 #bubble4 {
- 	top: 15px;
- 	right: 250px;
- 	width: 177px;
- 	font-size: 15px;
+    top: 15px;
+    right: 250px;
+    width: 177px;
+    font-size: 15px;
+}
+#bubble5 {
+    top: 15px;
+    right: 250px;
+    width: 177px;
+    font-size: 15px;
+}
+#bubble6 {
+    top: 15px;
+    right: 250px;
+    width: 177px;
+    font-size: 15px;
+}
+#bubble7 {
+    top: 15px;
+    right: 250px;
+    width: 177px;
+    font-size: 15px;
 }
